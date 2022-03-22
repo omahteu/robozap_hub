@@ -93,5 +93,3 @@ for i, msg in enumerate(dados_preformatados):
     except IndexError:
         pass
 
-#xpath_edge = '//*[@id="pane-side"]/div[1]/div/div/div/div/div/div/div[2]/div[2]/div[2]/span[1]/div/span'
-#xpath_chrome = '//*[@id="pane-side"]/div[1]/div/div/div/div/div/div/div[2]/div[2]/div[2]/span[1]/div/span'
